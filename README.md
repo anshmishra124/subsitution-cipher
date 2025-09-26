@@ -19,6 +19,7 @@ substitution-cipher/
 ├── cipher.py  #main Python file
 └── README.md  #documentation
 
+## example of uses
 Enter the message to encrypt: Hello123!
 
 Original Message: Hello123!
