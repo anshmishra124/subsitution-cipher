@@ -18,3 +18,10 @@ This project is meant for learning purposes only and is not secure for real-worl
 substitution-cipher/
 ├── cipher.py  #main Python file
 └── README.md  #documentation
+
+Enter the message to encrypt: Hello123!
+
+Original Message: Hello123!
+Encrypted Message: @]2q#Zx1
+Decrypted Message: Hello123!
+
